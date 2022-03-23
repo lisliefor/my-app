@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { SampleForm } from "antd-mob-v5-ext/lib";
+import { SampleForm } from "hrsaas-mob-core/lib";
 import "../App.css";
 
 class ProductList extends Component {
